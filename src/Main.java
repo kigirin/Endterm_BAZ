@@ -42,7 +42,7 @@ public class Main {
 //                e.printStackTrace();
 //            }
 //        }
-
+        System.out.println("Salam");
         // Here you specify which DB and UserRepository to use
         // And changing DB should not affect to whole code
         IDB db = new PostgresDB();
